@@ -1,2 +1,2 @@
 # Mlalgos
-This contains Ml algorithms which is for practising Deep learning.
+Contains Ml algorithms for practising Deep learning.
